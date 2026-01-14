@@ -1,0 +1,58 @@
+# סאנדיי — Generative Engine Optimization Map
+
+> A שירותים פיננסיים business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-6259e2e8.zappy5.app
+גלו שירותי הנהלת חשבונות מקצועיים לעסקים קטנים ופרילנסרים. סאנדיי מציעה פתרונות פיננסיים מותאמים אישית. צרו קשר היום!
+
+### השירותים שלנו
+https://-6259e2e8.zappy5.app/services
+גלו את מגוון שירותי הנהלת חשבונות של סאנדיי: ניהול ספרים, דוחות מס, ייעוץ פיננסי ועוד. פתרונות מותאמים לעסקים ופרילנסרים.
+
+### אודות
+https://-6259e2e8.zappy5.app/about
+הכירו את סאנדיי - צוות מקצועי של רואי חשבון ויועצים פיננסיים המספקים שירות הנהלת חשבונות איכותי לעסקים ופרילנסרים.
+
+### צור קשר
+https://-6259e2e8.zappy5.app/contact
+צרו קשר עם סאנדיי לקבלת ייעוץ חינם בנושא שירותי הנהלת חשבונות. אנו כאן כדי לעזור לעסק שלכם לצמוח. התקשרו או מלאו טופס ונחזור אליכם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-6259e2e8.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-6259e2e8.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-6259e2e8.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About סאנדיי
+סאנדיי is a business in the שירותים פיננסיים industry.
+
+## Target Audience
+- בעלי עסקים קטנים
+- פרילנסרים ועצמאים
+
+## Industry
+שירותים פיננסיים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-6259e2e8.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-6259e2e8.zappy5.app/robots.txt
